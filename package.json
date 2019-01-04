@@ -1,0 +1,17 @@
+{
+  "name": "bs4-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://vinhphat493.github.io/HTML5-BS4-2",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy" : "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC"
+}
